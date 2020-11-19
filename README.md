@@ -1,6 +1,6 @@
 # Working with "Geotiff" or tif files
 
-![boston-tiff.gif](attachment:boston-tiff.gif)
+![boston-tiff.gif](pics/boston-tiff.gif)
 
 There are lots of programs and python modules that reads .tif files, but we will be talking about a python module **Rasterio**
 
