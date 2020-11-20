@@ -19,3 +19,12 @@ conda install rasterio -c conda-forge
 # Basics: [Here](https://rasterio.readthedocs.io/en/latest/quickstart.html)
 
 # Advance: [Here](https://rasterio.readthedocs.io/en/latest/topics/index.html#)
+
+
+## About the project
+
+- In this challenge a tif file of a city called **Brugge** located in **Belgium** is used.
+- Tif file used in this Example includes DSM (Digital Surface Map).
+
+
+### To get started, click [here](https://github.com/Idreesqbal/GeoTif3DPlot/blob/master/GeoTif3DModel.ipynb)
